@@ -1,6 +1,4 @@
-
-
-                               ### Loki Bot – The Best Android Banking Botnet
+                               Loki Bot – The Best Android Banking Botnet
 
 
 
