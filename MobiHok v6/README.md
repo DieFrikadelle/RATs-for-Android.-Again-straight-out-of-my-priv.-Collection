@@ -1,9 +1,3 @@
-                                                                                              
-
-                                                                                                                                                                   
-
-
-
 ![MobiHok v6](https://github.com/user-attachments/assets/737b2ba8-52b3-4eab-83aa-66d7f4bb966e)
 
 # MobiHok v6  is the latest version of MobiHok RAT. It is an advanced version of android RAT with a lot of powerful features. MobiHok v6 comes with a lot of new features that anybody has never seen before. 
