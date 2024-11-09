@@ -1,18 +1,23 @@
-
-
-                               ### Loki Bot – The Best Android Banking Botnet
+                              
+# Loki Bot - The Best Android Banking Botnet
 
 
 
 Loki Bot is an advanced form of Android banking malware that builds on previous iterations of the Loki Bot family.
 
 It is designed to exploit Android devices by targeting financial applications and stealing sensitive information.
-
-
+![loki-bot-1](https://github.com/user-attachments/assets/9112d739-32f3-46a8-b141-8fcd34f308ec)
 
 It can intercept SMS messages, which might be used for two-factor authentication (2FA) or other security-related communications, allowing it to bypass security measures.
 
+
+![loki-bot-2](https://github.com/user-attachments/assets/854da5da-654a-4432-ab6b-12a9f2b89475)
+
+
+
 The malware often has capabilities to remotely control the infected device, allowing the attacker to perform actions such as sending messages or installing additional malicious software.
+
+![loki-bot-3](https://github.com/user-attachments/assets/9b0ab163-15be-401c-ba97-6b98e242452c)
 
 Features:
 
