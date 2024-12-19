@@ -1,5 +1,5 @@
 # Binary Setup: Windows
-
+A very easy setup, nothing more to say. Cant get any easier
 ![ahmyth pic](https://github.com/user-attachments/assets/ac843278-55a8-4ed8-bba0-bb054510ce37)
 
 # Prerequisites
