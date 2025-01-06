@@ -1,4 +1,7 @@
-Brata Rat 
+# Brata Rat 
+
+![BrataRat](https://github.com/user-attachments/assets/1734c579-51c4-4fb3-8815-24479a52d4aa)
+
 
 This version allows the attacker to control the infected mobile device remotely, supports up to Android version 13 and has some functions:
 
